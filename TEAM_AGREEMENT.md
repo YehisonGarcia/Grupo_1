@@ -1,4 +1,3 @@
-
 # Acuerdo de Trabajo del Equipo (Team Agreement)
 
 Este documento establece las reglas de convivencia, comunicación y estándares de calidad de nuestra célula ágil. Al participar en este repositorio, todos los miembros del equipo aceptamos y nos comprometemos a cumplir estos acuerdos.
@@ -6,9 +5,9 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Yehison Stiven Garcia Pabon] | Líder (Arquitecto) | `@YehisonGarcia` |
-| [Angel David Martinez Vizcaino] | Desarrollador | `@Angel-Martinez839` |
-| [Gabriela Uribe Santamaria] | Desarrollador | `@gabiuribe2008` |
+| [Nombre completo] | Líder (Arquitecto) | `@Usuario` |
+| [Nombre Completo] | Desarrollador | `@Usuario` |
+| [Nombre Completo] | Desarrollador | `@Usuario` |
 
 
 ## 2. Canales de Comunicación
@@ -34,6 +33,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
-#Yehison Stiven Garcia Pabon
-#Angel David Martinez Vizcaino
-#Gabriela Uribe Santamaria
+
