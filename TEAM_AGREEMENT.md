@@ -5,7 +5,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre completo] | Líder (Arquitecto) | `@Usuario` |
+| [Yehiso Stiven Garcia Pabon] | Líder (Arquitecto) | `@YehisonGarcia` |
 | [Nombre Completo] | Desarrollador | `@Usuario` |
 | [Nombre Completo] | Desarrollador | `@Usuario` |
 
@@ -33,4 +33,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
-
+#Yehison Garcia
