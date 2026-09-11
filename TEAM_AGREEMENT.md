@@ -7,7 +7,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Nombre completo] | Líder (Arquitecto) | `@Usuario` |
 | [Nombre Completo] | Desarrollador | `@Usuario` |
-| [Nombre Completo] | Desarrollador | `@Usuario` |
+| [Angel Martinez Vizcaino] | Desarrollador | `@Angel-Martinez839` |
 
 
 ## 2. Canales de Comunicación
@@ -34,3 +34,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
 
+#Angel Mrtinez vizcaino
