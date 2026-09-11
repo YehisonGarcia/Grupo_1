@@ -6,7 +6,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [Nombre completo] | Líder (Arquitecto) | `@Usuario` |
-| [Nombre Completo] | Desarrollador | `@Usuario` |
+| [Gabriela Uribe Santamaria] | Desarrollador | `@gabiuribe2008` |
 | [Nombre Completo] | Desarrollador | `@Usuario` |
 
 
@@ -33,4 +33,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
-
+#Gabriela Uribe
